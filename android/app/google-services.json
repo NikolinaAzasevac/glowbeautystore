@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912855809922",
+    "project_id": "glowbeautystore-5d824",
+    "storage_bucket": "glowbeautystore-5d824.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912855809922:android:3d7adda9a4f87418d5d99b",
+        "android_client_info": {
+          "package_name": "com.example.glowbeautystore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrJJT0OCROm-GPdDqzLLE_wHE-rQ3KNa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

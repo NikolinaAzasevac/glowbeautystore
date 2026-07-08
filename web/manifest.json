@@ -1,0 +1,35 @@
+{
+    "name": "Glow Beauty Store",
+    "short_name": "Glow Beauty",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F8E4F0",
+    "theme_color": "#E29AB7",
+    "description": "Glow Beauty Store is a beauty shopping app built with Flutter.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
