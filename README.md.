@@ -55,7 +55,24 @@ The application separates UI components, models, services, and state management 
 
 ## Screenshots
 
-Screenshots of the application interface will be added here.
+### User Application
+
+<p align="center">
+  <img src="screenshots/01_home.png" width="30%" alt="Home Screen">
+  <img src="screenshots/02_search.png" width="30%" alt="Product Search">
+  <img src="screenshots/03_product_details.png" width="30%" alt="Product Details">
+</p>
+
+<p align="center">
+  <img src="screenshots/04_cart.png" width="30%" alt="Shopping Cart">
+  <img src="screenshots/05_checkout.png" width="30%" alt="Checkout">
+</p>
+
+### Admin Application
+
+<p align="center">
+  <img src="screenshots/06_admin_products.png" width="30%" alt="Admin Product Management">
+</p>
 
 ## Getting Started
 
